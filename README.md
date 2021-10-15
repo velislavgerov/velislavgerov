@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Please be patient, this profile is undergoing some construction work 🚧
+Patience is a virtue and this profile is undergoing some construction work 🚧
 
 <!--
 **velislavgerov/velislavgerov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
