@@ -6,7 +6,7 @@ Meanwhile, you can play around with these undocumented, soon-to-be-open-sourced 
  - 📄 [docxforms.herokuapp.com](https://docxforms.herokuapp.com)
  - 🎁 [pattern-studio.herokuapp.com](https://pattern-studio.herokuapp.com)
 
-Feel free to [get in touch](mailto:velislav.gerov@gmail.com) for feedback or anything else.
+Feel free to [get in touch](mailto:velislav.gerov@gmail.com) with feedback or for anything else.
 
 <!--
 **velislavgerov/velislavgerov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
