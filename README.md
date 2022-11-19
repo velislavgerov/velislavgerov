@@ -1,12 +1,12 @@
-### Hi there 👋
+### Hi 👋
 
-Patience is a virtue and this profile is undergoing some construction work 🚧
+I'm a Full Stack Engineer, hacking away as [velislavatwone](https://github.com/velislavatwone) @ [Walking on Earth](https://github.com/walkingonearth).
 
-Meanwhile, you can play around with these undocumented, soon-to-be-open-sourced projects:
+Curious? Check out my latest toy projects:
  - 📄 [docxforms.herokuapp.com](https://docxforms.herokuapp.com)
  - 🎁 [pattern-studio.herokuapp.com](https://pattern-studio.herokuapp.com)
 
-Feel free to [get in touch](mailto:velislav.gerov@gmail.com) with feedback or for anything else.
+Feel free to [get in touch](mailto:velislav.gerov@gmail.com), if you wish.
 
 <!--
 **velislavgerov/velislavgerov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
