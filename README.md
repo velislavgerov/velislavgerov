@@ -3,7 +3,7 @@
 I'm a Full Stack Engineer, hacking away as [velislavatwone](https://github.com/velislavatwone) @ [Walking on Earth](https://github.com/walkingonearth).
 
 Curious? Check out my latest toy projects:
- - 📄 [docxforms.herokuapp.com](https://docxforms.herokuapp.com)
+ - 📄 [docxforms.com](https://docxforms.com)
  - 🎁 [pattern-studio.herokuapp.com](https://pattern-studio.herokuapp.com)
 
 Feel free to [get in touch](mailto:velislav.gerov@gmail.com), if you wish.
