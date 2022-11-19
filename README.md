@@ -4,7 +4,7 @@ I'm a Full Stack Engineer, hacking away as [velislavatwone](https://github.com/v
 
 Curious? Check out my latest toy projects:
  - 📄 [docxforms.com](https://docxforms.com)
- - 🎁 [pattern-studio.herokuapp.com](https://pattern-studio.herokuapp.com)
+ - 🎁 [pattern-studio.gerov.dev](https://pattern-studio.gerov.dev/)
 
 Feel free to [get in touch](mailto:velislav.gerov@gmail.com), if you wish.
 
